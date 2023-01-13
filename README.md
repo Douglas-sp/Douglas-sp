@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on flutter projects 
 - 📫 How to reach me Email: wamaniray@gmail.com, 
-                     WhatsApp: +256783067926,
+                     WhatsApp: wa.me/+256783067926,
                      LinkedIn: www.linkedin.com/in/wamani-raymond-douglas 
 
 <!---
