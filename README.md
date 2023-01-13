@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Douglas-sp
+- 👋 Hi, I’m Douglas Sponder
 - 👀 I’m interested in UI/UX design, flutter and Machine Learning(NLP) using python.
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on flutter projects 
