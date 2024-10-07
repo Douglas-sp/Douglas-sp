@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Douglas Sponder
-- 👀 I’m interested in UI/UX design, flutter and Machine Learning(NLP) using python.
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter projects 
+- Interested in Machine Learning(NLP) using Python.
 - 📫 How to reach me Email: wamaniray@gmail.com,
                      WhatsApp: https://wa.me/+256783067926,
                      LinkedIn: www.linkedin.com/in/wamani-raymond-douglas 
