@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Douglas Sponder
+- 👋 Hi, I’m Raymond Douglas Wamani
 - Interested in Machine Learning(NLP) using Python.
 - 📫 How to reach me Email: wamaniray@gmail.com,
                      WhatsApp: https://wa.me/+256783067926,
