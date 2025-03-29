@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Raymond Douglas Wamani
-- Interested in Machine Learning(NLP) using Python.
+<!-- - Interested in Machine Learning(NLP) using Python.-->
+- a NoCode Dev
 - 📫 How to reach me Email: wamaniray@gmail.com,
                      WhatsApp: https://wa.me/+256783067926,
                      LinkedIn: www.linkedin.com/in/wamani-raymond-douglas 
