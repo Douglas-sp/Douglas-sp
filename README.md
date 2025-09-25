@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raymond Douglas Wamani
 <!-- - Interested in Machine Learning(NLP) using Python.-->
-- Vibe coding Dev
+- Vibe coding
 - 📫 How to reach me Email: wamaniray@gmail.com,
                      WhatsApp: https://wa.me/+256783067926,
                      LinkedIn: www.linkedin.com/in/wamani-raymond-douglas 
