@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raymond Douglas Wamani
+- 👋 Hi, I’m Raymond D. W
 <!-- - Interested in Machine Learning(NLP) using Python.-->
 - Vibe coding
 - 📫 How to reach me Email: wamaniray@gmail.com,
