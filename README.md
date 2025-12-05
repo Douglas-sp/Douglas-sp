@@ -2,7 +2,7 @@
 <!-- - Interested in Machine Learning(NLP) using Python.-->
 - Vibe coding
 - Email: wamaniray@gmail.com <br>
-  <a WhatsApp:> https://wa.me/+256783067926 </a> <br>
+  <a href="https://wa.me/+256783067926"> WhatsApp: Clink here</a> <br>
   LinkedIn: www.linkedin.com/in/wamani-raymond-douglas 
 
 <!---
