@@ -3,7 +3,7 @@
 - Vibe coding
 - Email: wamaniray@gmail.com <br>
 - WhatsApp:<a href="https://wa.me/+256783067926"> Click Here </a> <br>
-- LinkedIn: <a href="www.linkedin.com/in/wamani-raymond-douglas"> Click Here </a> 
+- LinkedIn: <a href="https://www.linkedin.com/in/wamani-raymond-douglas"> Click Here </a> 
 
 <!---
 Douglas-sp/Douglas-sp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
