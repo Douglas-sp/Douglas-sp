@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Raymond D. W
 <!-- - Interested in Machine Learning(NLP) using Python.-->
 - Vibe coding
-- 📫 How to reach me Email: wamaniray@gmail.com,
-                     WhatsApp: https://wa.me/+256783067926,
-                     LinkedIn: www.linkedin.com/in/wamani-raymond-douglas 
+- Email: wamaniray@gmail.com,
+  WhatsApp: https://wa.me/+256783067926,
+  LinkedIn: www.linkedin.com/in/wamani-raymond-douglas 
 
 <!---
 Douglas-sp/Douglas-sp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
